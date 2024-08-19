@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full time student, part time developer at a startup called [Auge](https://auge-tech.no)
+Part time student, full time developer at a startup called [Auge](https://auge-tech.no)
 
 Interested in devops and workflow optimisation.
 
