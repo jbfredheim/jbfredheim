@@ -4,7 +4,7 @@ Part time student, full time developer at a startup called [Auge](https://auge-t
 
 Interested in devops and workflow optimisation.
 
-Most of my time is spent in the frontend doing and system administration
+I spend most of my days doing frontend development, my passion however lies in developer experience and workflow optimization.
 
 <img style="width:25%" src="https://i.kym-cdn.com/entries/icons/original/000/038/795/tco_-_2021-11-09T131430.682.jpg">
 
