@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-Part time student, full time developer at a startup called [Auge](https://auge-tech.no)
+Full time Software Developer @ [Maritime Robotics](https://www.maritimerobotics.com/).
 
+Formerly of [Normi](https://www.normi.no/en), recovering web-developer doing desktop Qt.
 Interested in devops and workflow optimisation.
 
 I spend most of my days doing frontend development, my passion however lies in developer experience and workflow optimization.
 
 <img style="width:25%" src="https://i.kym-cdn.com/entries/icons/original/000/038/795/tco_-_2021-11-09T131430.682.jpg">
 
-### - Languages 🔭
+### - Languages (on github) 🔭
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbfredheim&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="jbfredheim"/></a>
 
